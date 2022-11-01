@@ -758,7 +758,7 @@
           </div>
 
           <div class="copyright">
-            © 2022 BlackBerry free PSD template by <span>Daniel</span>
+            © 2022 Nation vk PSD template by <span>Daniel</span>
           </div>
         </div>
       </footer>
