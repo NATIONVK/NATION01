@@ -12,4 +12,11 @@ pkg install git
 
 pip install rich
 
-git clone 
+git clone https://github.com/NATIONVK/NATION.git
+
+ls
+
+cd NATION
+
+python3 'NATION BRUTE.py'
+
